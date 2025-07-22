@@ -6,7 +6,7 @@ Tenho interesse em desenvolvimento de software, machine learning e dados.
 Atualmente, estou me aprimorando em Python, Git, e colaborando em projetos Open Source para ganhar experiência prática.  
 
 💻 Skills principais:  
-- Python  
+- Python 
 - Git / GitHub  
 - Machine Learning básico  
 - Modelagem UML  
